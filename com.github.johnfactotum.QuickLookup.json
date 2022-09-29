@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.johnfactotum.QuickLookup",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "42",
+    "runtime-version": "43",
     "sdk": "org.gnome.Sdk",
     "command": "quick-lookup",
     "finish-args": [
@@ -30,32 +30,32 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/quick-lookup.js",
-                    "sha256": "300bcd8a944d24335b0e9dbc3466ff67139be6172e8f68ff3c0ed12903a924e7"
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/quick-lookup.js",
+                    "sha256": "76774f0457b9ca3cf34e815e245de1250d0ba88aa541f0d859d717b612ad9674"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/com.github.johnfactotum.QuickLookup.desktop",
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/com.github.johnfactotum.QuickLookup.desktop",
                     "sha256": "796c5ffb9bfaf8955d7fc2b7a048e56860288c75bd59b62ee5e9ca161c1dfa99"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/com.github.johnfactotum.QuickLookup.appdata.xml",
-                    "sha256": "6b84fab2f825b36e4cf0e91be6e81c7a1325b004a8a326e75a17773321313b57"
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/com.github.johnfactotum.QuickLookup.appdata.xml",
+                    "sha256": "da1f7e95e3250c7a47f992a7c15c60ffabeebb9e21ddc419d889450e00fa9d63"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/com.github.johnfactotum.QuickLookup.svg",
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/com.github.johnfactotum.QuickLookup.svg",
                     "sha256": "c8766932d235d6d34176e9c5e364f15e8871f4f304141aa1d96b20705b154b82"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/com.github.johnfactotum.QuickLookup-symbolic.svg",
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/com.github.johnfactotum.QuickLookup-symbolic.svg",
                     "sha256": "9f7422d817125c7d67fa1b5d8dfadf3e7a0e7d8dbebd9176b8ebdfc4c68895ff"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/1.2.0/com.github.johnfactotum.QuickLookup.gschema.xml",
+                    "url": "https://raw.githubusercontent.com/johnfactotum/quick-lookup/2.0.0/com.github.johnfactotum.QuickLookup.gschema.xml",
                     "sha256": "54d3b94f14fd428120f29bf175834295ec0b8ecb5a3221c1b7115ec390ab6568"
                 }
             ]
