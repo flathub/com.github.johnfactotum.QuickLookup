@@ -19,8 +19,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/johnfactotum/quick-lookup.git",
-                    "tag": "2.1.1",
-                    "commit": "9fe9471eb5032473816d49abc501de4b1e134265"
+                    "tag": "2.1.2",
+                    "commit": "f5b2eba978e1c9910b2daf914dc1a0b0d40c89bb"
                 }
             ]
         }
